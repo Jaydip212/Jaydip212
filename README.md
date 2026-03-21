@@ -84,29 +84,53 @@
 <div align="center">
 
 ### 🔐 Cybersecurity & Hacking
-<img src="https://skillicons.dev/icons?i=linux,bash&theme=dark" />
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logo=nmap&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=portswigger&logoColor=white)
+
+<img src="https://skillicons.dev/icons?i=linux,bash,kali&theme=dark" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
+<img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=buffer&logoColor=white" />
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+<img src="https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logo=hackthebox&logoColor=white" />
+<img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=hackthebox&logoColor=white" />
+<img src="https://img.shields.io/badge/Hydra-red?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+<img src="https://img.shields.io/badge/John_the_Ripper-black?style=for-the-badge&logo=gnuprivacyguard&logoColor=white" />
+<img src="https://img.shields.io/badge/SQLMap-CC2927?style=for-the-badge&logo=databricks&logoColor=white" />
+
+<br/><br/>
 
 ### 🌐 Frontend
+
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,bootstrap,tailwind&theme=dark" />
 
+<br/><br/>
+
 ### ⚙️ Backend & Database
+
 <img src="https://skillicons.dev/icons?i=python,php,cs,dotnet,mysql,oracle,redis,sqlite&theme=dark" />
 
+<br/><br/>
+
 ### ☁️ Cloud & DevOps
+
 <img src="https://skillicons.dev/icons?i=aws,azure,gcp,git,github,docker&theme=dark" />
 
+<br/><br/>
+
 ### 🤖 AI / ML & Data Science
+
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&theme=dark" />
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
+<br/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+<img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" />
+
+<br/><br/>
 
 ### 🛠️ Tools & Design
+
 <img src="https://skillicons.dev/icons?i=vscode,postman,arduino,blender,illustrator,ps&theme=dark" />
 
 </div>

@@ -1,29 +1,154 @@
-<h1 align="center">Hi 👋, I'm Jaydip Jadhav</h1>
-<h3 align="center">A passionate Ethical hacker from India</h3>
+<div align="center">
 
+```
+╔═══════════════════════════════════════════════════════════╗
+║   _   _  U _____ u   __  __   ____  ____   ____          ║
+║  | | | | \| ___"|/  / _| |"|  |  ."| .-._  |  _"\.      ║
+║  | |_| |  |  _|"   | |   | |  | |  |(_)/" \| | | |      ║
+║  |_   _|  | |___   | |/  | |  | |/| |  | | | |_| |      ║
+║    |_|    |_____|   \__| |__|  |__| |_| |_| |____/       ║
+║                                                           ║
+║          [ INITIALIZING TERMINAL SESSION... ]            ║
+╚═══════════════════════════════════════════════════════════╝
+```
 
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=00FF9D&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Jaydip+Jadhav;Ethical+Hacker+%F0%9F%94%90;Full+Stack+Developer+%F0%9F%9A%80;Cybersecurity+Enthusiast+%F0%9F%9B%A1%EF%B8%8F;Always+Learning%2C+Always+Building+%F0%9F%92%BB" alt="Typing SVG" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jaydip212&label=Profile%20views&color=0e75b6&style=flat" alt="jaydip212" /> </p>
+<br/>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jaydip212" alt="jaydip212" /></a> </p>
+![Profile Views](https://komarev.com/ghpvc/?username=jaydip212&label=PROFILE+VIEWS&color=00ff9d&style=flat-square)
+[![GitHub followers](https://img.shields.io/github/followers/Jaydip212?label=FOLLOWERS&style=flat-square&color=00ff9d&labelColor=0d1117)](https://github.com/Jaydip212)
+[![GitHub stars](https://img.shields.io/github/stars/Jaydip212?label=TOTAL+STARS&style=flat-square&color=00e5ff&labelColor=0d1117)](https://github.com/Jaydip212)
 
-- 📫 How to reach me **jaydipjadhav062@gmail.com**
+</div>
 
-- ⚡ Fun fact **i am funny**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/jaydip-jadhav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="jaydip-jadhav" height="30" width="40" /></a>
-<a href="https://twitter.com/jaydipjadhav69943" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jaydipjadhav69943" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/jaydip-jadhav-b7b76a2a1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jaydip-jadhav-b7b76a2a1" height="30" width="40" /></a>
-<a href="https://instagram.com/https.jaydip_coder_hacker.in" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https.jaydip_coder_hacker.in" height="30" width="40" /></a>
-</p>
+## `> whoami`
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+```bash
+$ cat profile.json
+{
+  "name"       : "Jaydip Jadhav",
+  "alias"      : "Jaydip212",
+  "role"       : "Ethical Hacker & Full Stack Developer",
+  "location"   : "📍 Karmala, Maharashtra, India",
+  "email"      : "jaydipjadhav062@gmail.com",
+  "fun_fact"   : "⚡ I am funny",
+  "status"     : "🟢 Available for collaboration",
+  "passion"    : ["Cybersecurity", "Web Dev", "Microcontrollers", "AI/ML"]
+}
+```
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaydip212&show_icons=true&locale=en&layout=compact" alt="jaydip212" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jaydip212&show_icons=true&locale=en" alt="jaydip212" /></p>
+## `> ./skills --list`
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jaydip212&" alt="jaydip212" /></p>
+<div align="center">
+
+### 🛡️ Cybersecurity
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+
+### 🌐 Web Development
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+### 🗄️ Database & Cloud
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+
+### 🤖 AI / ML
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
+### 🛠️ Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
+
+</div>
+
+---
+
+## `> github --stats`
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Jaydip212&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff9d&icon_color=00e5ff&text_color=c8f0ff&ring_color=00ff9d" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Jaydip212&theme=dark&hide_border=true&background=0d1117&ring=00ff9d&fire=ff2d55&currStreakLabel=00e5ff&sideLabels=c8f0ff&dates=4a7a8a&stroke=00ff9d&currStreakNum=ffffff&sideNums=ffffff" />
+
+<br/>
+
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaydip212&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff9d&text_color=c8f0ff" />
+
+<br/><br/>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Jaydip212&theme=matrix&no-frame=true&column=7&margin-w=8&margin-h=8)](https://github.com/ryo-ma/github-profile-trophy)
+
+<br/>
+
+![Jaydip's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Jaydip212&bg_color=0d1117&color=00ff9d&line=00e5ff&point=ff2d55&area=true&hide_border=true)
+
+</div>
+
+---
+
+## `> ls projects/`
+
+<div align="center">
+
+[![cybersafe-india](https://github-readme-stats.vercel.app/api/pin/?username=Jaydip212&repo=cybersafe-india&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff9d&icon_color=00e5ff&text_color=c8f0ff)](https://github.com/Jaydip212/cybersafe-india)
+[![VoteSecure](https://github-readme-stats.vercel.app/api/pin/?username=Jaydip212&repo=-VoteSecure-Online-Voting-System&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff9d&icon_color=00e5ff&text_color=c8f0ff)](https://github.com/Jaydip212/-VoteSecure-Online-Voting-System)
+
+[![LIC-management](https://github-readme-stats.vercel.app/api/pin/?username=Jaydip212&repo=LIC-management-system&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff9d&icon_color=00e5ff&text_color=c8f0ff)](https://github.com/Jaydip212/LIC-management-system)
+[![ai-chatbot](https://github-readme-stats.vercel.app/api/pin/?username=Jaydip212&repo=ai-chatbot&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff9d&icon_color=00e5ff&text_color=c8f0ff)](https://github.com/Jaydip212/ai-chatbot)
+
+</div>
+
+---
+
+## `> connect --social`
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Gmail-jaydipjadhav062@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jaydipjadhav062@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jaydip_Jadhav-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaydip-jadhav-b7b76a2a1)
+[![Instagram](https://img.shields.io/badge/Instagram-@jaydip__cretion__92-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jaydip_cretion_92)
+[![Twitter](https://img.shields.io/badge/Twitter-@jaydipjadhav-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/jaydipjadhav69943)
+[![CodePen](https://img.shields.io/badge/CodePen-jaydip--jadhav-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/jaydip-jadhav)
+
+</div>
+
+---
+
+<div align="center">
+
+```
+┌─────────────────────────────────────────────────────┐
+│  "The quieter you become, the more you can hear."   │
+│                                    — Kali Linux     │
+└─────────────────────────────────────────────────────┘
+```
+
+**Made with ❤️ by Jaydip Jadhav | Karmala, Maharashtra 🇮🇳**
+
+![Snake animation](https://raw.githubusercontent.com/Jaydip212/Jaydip212/output/github-contribution-grid-snake-dark.svg)
+
+</div>
